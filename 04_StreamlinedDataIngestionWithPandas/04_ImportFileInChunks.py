@@ -1,5 +1,8 @@
 # Import a file in chunks
 
+# Import pandas with the alias pd
+import pandas as pd
+
 # Create dataframe of next 500 rows with labeled columns
 col_names = list(vt_data_first500)
 
