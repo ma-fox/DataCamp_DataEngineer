@@ -1,5 +1,8 @@
 # Import a subset of columns
 
+# Import pandas with the alias pd
+import pandas as pd
+
 # Create list of columns to use
 cols = ['zipcode', 'agi_stub', 'mars1', 'MARS2', 'NUMDEP']
 
