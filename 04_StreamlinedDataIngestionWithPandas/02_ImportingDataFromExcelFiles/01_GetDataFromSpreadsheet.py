@@ -1,4 +1,4 @@
-# Load pandas as pd
+# Import pandas with the alias pd
 import pandas as pd
 
 # Read spreadsheet and assign it to survey_responses

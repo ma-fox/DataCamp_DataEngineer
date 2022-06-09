@@ -1,3 +1,6 @@
+# Import pandas with the alias pd
+import pandas as pd
+
 # Load file, with Part1StartTime parsed as datetime data
 survey_data = pd.read_excel("fcc_survey.xlsx",
                             parse_dates=)

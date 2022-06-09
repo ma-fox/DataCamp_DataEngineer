@@ -1,5 +1,8 @@
 # Create a dataframe from the second workbook sheet by passing the sheet's position to sheet_name.
 
+# Import pandas with the alias pd
+import pandas as pd
+
 # Create df from second worksheet by referencing its position
 responses_2017 = pd.read_excel("fcc_survey.xlsx", sheet_name=1)
 

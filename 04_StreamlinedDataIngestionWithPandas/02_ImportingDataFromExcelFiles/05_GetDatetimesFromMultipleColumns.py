@@ -1,5 +1,8 @@
 # Get datetimes from multiple columns
 
+# Import pandas with the alias pd
+import pandas as pd
+
 # Create dict of columns to combine into new datetime column
 datetime_cols = {"Part2Start": ____}
 

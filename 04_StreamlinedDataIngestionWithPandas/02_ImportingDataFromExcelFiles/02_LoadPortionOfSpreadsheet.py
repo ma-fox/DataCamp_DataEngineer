@@ -1,3 +1,6 @@
+# Import pandas with the alias pd
+import pandas as pd
+
 # Create string of lettered columns to load
 col_string = 'AD, AW:BA'
 
