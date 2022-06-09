@@ -10,6 +10,9 @@
 # Question
 # In the console, examine survey_data's Part2EndTime column to see the data type and date format. Choose the code that describes the date format in Part2EndTime.
 
+# Import pandas with the alias pd
+import pandas as pd
+
 # Parse datetimes and assign result back to Part2EndTime
 survey_data["Part2EndTime"] = pd.to_datetime(survey_data["Part2EndTime"],
                                              format="%m%d%Y %H:%M:%S")
