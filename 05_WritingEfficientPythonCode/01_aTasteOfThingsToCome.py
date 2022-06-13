@@ -1,6 +1,9 @@
 # A taste of things to come
 # In this exercise, you'll explore both the Non-Pythonic and Pythonic ways of looping over a list.
 
+# Provided list of names in the DataCamp online environment
+names = ['Jerry', 'Kramer', 'Elaine', 'George', 'Newman']
+
 # Print the list created using the Non-Pythonic approach
 i = 0
 new_list = []
