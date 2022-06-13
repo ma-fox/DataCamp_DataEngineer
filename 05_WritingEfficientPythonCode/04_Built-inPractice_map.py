@@ -1,5 +1,8 @@
 # Built-in practice: map()
 
+# Provided list of names in the DataCamp online environment
+names = ['Jerry', 'Kramer', 'Elaine', 'George', 'Newman']
+
 # Use map to apply str.upper to each element in names
 names_map = map(str.upper, names)
 
