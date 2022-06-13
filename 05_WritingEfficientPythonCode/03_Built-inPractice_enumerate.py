@@ -2,6 +2,9 @@
 
 # Rewrite the for loop to use enumerate
 
+# Provided list of names in the DataCamp online environment
+names = ['Jerry', 'Kramer', 'Elaine', 'George', 'Newman']
+
 indexed_names = []
 for i, name in enumerate(names):
     index_name = (i, name)
