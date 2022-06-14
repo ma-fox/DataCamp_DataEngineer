@@ -1,5 +1,9 @@
 # Using %timeit: specifying number of runs and loops
-# A list of 480 superheroes is created.
+
+# %timeit lets you specify the number of runs and number of loops you want to consider with the -r and -n flags.
+# You can use -r5 and -n25 to specify 5 iterations each with 25 loops when calculating the average and standard deviation of runtime for your code.
+
+# A list of 480 superheroes provided by Marvel.com
 
 heroes = [
     'A-Bomb', 'Abe Sapien', 'Abin Sur', 'Abomination', 'Absorbing Man',
