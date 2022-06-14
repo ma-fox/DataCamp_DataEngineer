@@ -25,3 +25,6 @@ print(nums_list_comp)
 # Create a list of integers (0-50) by unpacking range
 %timeit nums_unpack = [*range(51)]
 print(nums_unpack)
+
+# Fazit:
+# Unpacking the range object was faster than list comprehension.
