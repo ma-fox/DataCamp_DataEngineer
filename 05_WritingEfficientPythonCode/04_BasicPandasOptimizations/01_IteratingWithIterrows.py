@@ -14,7 +14,7 @@
 for i,row in pit_df.iterrows():
     print(row)
 
-# <script.py> output:
+#     output:
 #     Team         PIT
 #     League        NL
 #     Year        2012
@@ -189,7 +189,7 @@ for row_tuple in pit_df.iterrows():
     print(row_tuple)
     print(type(row_tuple))
 
-# <script.py> output:
+#     output:
 #     (0, Team         PIT
 #     League        NL
 #     Year        2012
