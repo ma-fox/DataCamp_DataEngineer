@@ -7,3 +7,6 @@ ls
 # unzip *.zip
 # Preview the log file
 cat wget-log
+
+# Because we asked wget to download in the background using option flag -b,
+# we should always take a peak at the download log in case anything goes amiss.
