@@ -9,8 +9,8 @@ Through hands-on exercises, you’ll add cloud and big data tools such as AWS Bo
 ---
 
 ## Courses
-1. > - [x] Data Engineering for Everyone
-2. > - [x] Introduction to Data Engineering
+1. > [x] Data Engineering for Everyone
+2. > [x] Introduction to Data Engineering
 3. > - [x] Streamlined Data Ingestion with pandas
 4. > - [x] Writing Efficient Python Code
 5. > - [x] Writing Functions in Python
