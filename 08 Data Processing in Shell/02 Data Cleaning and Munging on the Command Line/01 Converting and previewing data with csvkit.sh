@@ -6,3 +6,6 @@ unzip SpotifyData.zip
 
 # Check to confirm name and location of unzipped file
 ls
+
+# Print preview of Spotify_MusicAttributes
+csvlook Spotify_MusicAttributes.csv
