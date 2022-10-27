@@ -3,3 +3,6 @@ ls
 
 # Use Linux's built in unzip tool to unpack the zipped file
 unzip SpotifyData.zip
+
+# Check to confirm name and location of unzipped file
+ls
